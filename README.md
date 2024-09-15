@@ -1,7 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="60px" max-width="60px" width="60px" align="right"></img>
 # Sobre mim :chart_with_upwards_trend:
-Me chamo Marinara e tenho 28 anos
-Apaixonada por Pixel Art e UX Design 
+![MARINARA](https://img.shields.io/badge/MARINARA?style=for-the-badge&logo=amd&logoColor=white))
 
 ### **Atuo com**
 
