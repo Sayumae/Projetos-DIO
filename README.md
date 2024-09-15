@@ -3,7 +3,7 @@
 ## Sobre mim
 Me chamo Marinara e tenho 28 anos
 
-![PBI](https://img.shields.io/badge/powerbi-3670A0?style=for-the-badge&logo=&logoColor=eee)
+Atuo com: ![PBI](https://img.shields.io/badge/powerbi-3670A0?style=for-the-badge&logo=&logoColor=eee)
 <br><br>
 <b>Estou aprendendo mais sobre</b>
 <br><br>
