@@ -8,7 +8,7 @@ Me chamo Marinara e tenho 28 anos
 Power BI
 <br>
 <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" min-width="60px" max-width="60px" width="60px" align="left"></img>  
-
+<br>
 <b>Aprendendo mais sobre</b>
 <br><br>
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=mysql&logoColor=fff)
