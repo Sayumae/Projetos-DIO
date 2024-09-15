@@ -3,7 +3,7 @@
 # Sobre mim :chart_with_upwards_trend:
 ![MARINARA](https://img.shields.io/badge/Marinara|28|SP-HOBBIES:PIXEL&UX-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 
-<img src="https://i.ibb.co/c1BfdvX/pixel-background-of-a-home-office-with-light-shining-through-the-window.png" min-width="400" max-width="400" width="400" align="right">
+<img src="https://i.ibb.co/c1BfdvX/pixel-background-of-a-home-office-with-light-shining-through-the-window.png" min-width="500" max-width="500" width="500" align="right">
 
 ### **Atuo com**
 
