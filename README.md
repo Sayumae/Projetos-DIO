@@ -3,7 +3,7 @@
 Me chamo Marinara e tenho 28 anos
 Apaixonada por Pixel Art e UX Design 
 
-<div style="text-shadow💯">### **Atuo com**K</div>
+### **Atuo com**
 
 ![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
