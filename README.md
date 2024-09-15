@@ -13,7 +13,7 @@ Trabalho atualmente com:
 
 ## Aprendendo mais sobre
 
-<img src="https://www.flaticon.com/free-icons/programming-language" title="programming language icons"></img>
+<img src="https://ibb.co/0j6mM74"></img>
 <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Server-Monitoring.component.complex-narrative-xl.ts=1724330965921.png/content/adobe-cms/br/pt/products/instana/supported-technologies/microsoft-sql-server-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" min-width="50px" max-width="50px" width="50px" align="left"></img>
 
 
