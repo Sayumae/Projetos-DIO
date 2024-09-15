@@ -13,8 +13,8 @@ Trabalho atualmente com:
 
 # Aprendendo mais sobre
 
-<img src="https://i.ibb.co/jRLFQGH/database.png" min-width="30px" max-width="30px" width="30px" align="left">[SQL]</img>
+![SQL]<img src="https://i.ibb.co/jRLFQGH/database.png" min-width="30px" max-width="30px" width="30px" align="left"></img>
 e
-<img src="https://i.ibb.co/V3m4nw6/python.png" min-width="30px" max-width="30px" width="30px" align="left">[PYTHON]</img>
+![PYTHON]<img src="https://i.ibb.co/V3m4nw6/python.png" min-width="30px" max-width="30px" width="30px" align="left"></img>
 
 
