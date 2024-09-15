@@ -12,7 +12,7 @@ Apaixonada por Pixel Art e UX Design
 
 ![MYSQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### **Algum conhecimento**
 
