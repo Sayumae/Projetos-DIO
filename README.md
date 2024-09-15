@@ -5,9 +5,8 @@ Me chamo Marinara e tenho 28 anos
 
 ![Endpoint Badge]([https://img.shields.io/endpoint](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5))
 
-Power BI
 <br>
-![PBI](https://img.shields.io/badge/PowerBI-3670A0?style=for-the-badge&logo=PBI&logoColor=fff)
+![PBI](https://img.shields.io/badge/PowerBI-3670A0?style=for-the-badge&logo=PBI&logoColor=333)
 <br>
 <b>Aprendendo mais sobre</b>
 <br><br>
