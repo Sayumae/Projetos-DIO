@@ -1,5 +1,5 @@
 <img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="65px" max-width="65px" width="65px" align="left"></img>
-<br><br><img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" min-width="500px" max-width="500px" width="500px" align="right">
+
 # Sobre mim :chart_with_upwards_trend:
 ![MARINARA](https://img.shields.io/badge/Marinara|28|SP-HOBBIES:PIXEL&UX-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 
@@ -22,4 +22,6 @@
 ### **Rede Social**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinara-maejima/)
+
+<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" min-width="500px" max-width="500px" width="500px" align="right">
 
