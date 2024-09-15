@@ -3,7 +3,7 @@
 ## Sobre mim
 Me chamo Marinara e tenho 28 anos
 
-<b>![Trabalho atual](https://img.shields.io/badge/any_text-you_like-blue)</b>
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 Power BI
 <br>
