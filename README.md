@@ -3,6 +3,8 @@
 # Sobre mim :chart_with_upwards_trend:
 ![MARINARA](https://img.shields.io/badge/Marinara|28|SP-HOBBIES:PIXEL&UX-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" min-width="500px" max-width="500px" width="500px" align="right">
+
 ### **Atuo com**
 
 ![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Pgoogle%20analytics&logoColor=white)
@@ -13,8 +15,6 @@
 ![MYSQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-
-<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" min-width="500px" max-width="500px" width="500px" align="right">
 
 ### **Algum conhecimento**
 
