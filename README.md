@@ -11,9 +11,10 @@ Trabalho atualmente com:
 <br>
 
 ## Aprendendo mais sobre
-SQL<img src="https://i.ibb.co/jRLFQGH/database.png" min-width="30px" max-width="30px" width="30px" align="left"></img>
-e
-PYTHON<img src="https://i.ibb.co/V3m4nw6/python.png" min-width="30px" max-width="30px" width="30px" align="left"></img>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Me viro um pouco com
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
