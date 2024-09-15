@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="70px" max-width="70px" width="70px" align="right"></img>
+<img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="50px" max-width="50px" width="50px" align="right"></img>
 
 ## Sobre mim
 
