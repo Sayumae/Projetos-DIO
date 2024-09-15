@@ -1,11 +1,11 @@
-## Sobre mim :eyes:
+## Sobre mim :chart_with_upwards_trend:
 - Me chamo Marinara e tenho 28 anos :relaxed:
 - Apaixonada por Pixel Art e UX Design
 <img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="300px" max-width="300px" width="300px" align="right" border="1"></img>
 
 Trabalho atualmente com
 
-![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) :chart_with_upwards_trend:
+![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 <br><br>
 <b>Estou aprendendo mais sobre</b>
 <br><br>
