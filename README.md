@@ -3,10 +3,7 @@
 ## Sobre mim
 Me chamo Marinara e tenho 28 anos
 
-![Endpoint Badge]([https://img.shields.io/endpoint](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5))
-
-
-![PBI](https://img.shields.io/badge/powerbi-3670A0?style=for-the-badge&logo=mysql&logoColor=fff)
+![PBI](https://img.shields.io/badge/powerbi-3670A0?style=for-the-badge&logo=mysql&logoColor=eee)
 <br>
 <b>Aprendendo mais sobre</b>
 <br><br>
