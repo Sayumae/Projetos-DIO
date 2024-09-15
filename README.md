@@ -1,7 +1,10 @@
 <img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="50px" max-width="50px" width="50px" align="right"></img>
 
 ## Sobre mim
-Me chamo Marinara e tenho 28 anos, trabalho atualmente com:
+Me chamo Marinara e tenho 28 anos
+Apaixonada por Pixels e UX Design
+
+Trabalho atualmente com:
 
 ![POWERBI](https://img.shields.io/badge/powerbi-D70A53?style=for-the-badge&logo=&logoColor=white)
 <br><br>
