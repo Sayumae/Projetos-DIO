@@ -17,5 +17,5 @@ Me chamo Marinara e tenho 28 anos, trabalho atualmente com:
 
 <b>Rede Social</b>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinara-maejima/)
 
