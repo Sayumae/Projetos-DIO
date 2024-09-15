@@ -1,8 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="50px" max-width="50px" width="50px" align="right"></img>
 
 ## Sobre mim
-Me chamo Marinara e tenho 28 anos
-Apaixonada por Pixel Art e UX Design
+- Me chamo Marinara e tenho 28 anos
+- Apaixonada por Pixel Art e UX Design
 
 Trabalho atualmente com
 
