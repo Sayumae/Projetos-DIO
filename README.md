@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="300px" max-width="300px" width="300px" align="right"></img>
+<img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="70px" max-width="70px" width="70px" align="right"></img>
 
 ## Sobre mim
 
@@ -7,7 +7,7 @@ Me chamo Marinara, tenho 28 anos
 Trabalho com:
 
 Power BI
-<img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="40px" max-width="40px" width="40px" align="left"></img>  
+<img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" min-width="40px" max-width="40px" width="40px" align="left"></img>  
 
 ## Objetivos
 
