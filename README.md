@@ -2,7 +2,7 @@
 
 ## Sobre mim
 Me chamo Marinara e tenho 28 anos
-Apaixonada por Pixels e UX Design
+Apaixonada por Pixel Art e UX Design
 
 Trabalho atualmente com
 
