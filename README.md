@@ -7,7 +7,7 @@ Trabalho atualmente com
 
 ![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 <br><br>
-<b>Desafios</b>
+<b>DESAFIOS</b>
 <br><br>
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
