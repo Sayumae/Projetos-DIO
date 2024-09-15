@@ -1,9 +1,10 @@
 <html>
 <head>
-.imagem{border-radius:20px}
-</head></html>
+<body>
+.avatarcircle{border-radius:20px}
+</head></html></body>
   
-<img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="65px" max-width="65px" width="65px" align="left" class="imagem"></img>
+<img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="65px" max-width="65px" width="65px" align="left" class="avatarcircle"></img>
 # Sobre mim :chart_with_upwards_trend:
 ![MARINARA](https://img.shields.io/badge/Marinara-28/SP-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 
