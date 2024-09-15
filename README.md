@@ -5,7 +5,7 @@
 
 Trabalho atualmente com
 
-![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) :chart_with_upwards_trend:
 <br><br>
 <b>Estou aprendendo mais sobre</b>
 <br><br>
