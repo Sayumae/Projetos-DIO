@@ -6,7 +6,8 @@ Me chamo Marinara, tenho 28 anos
 
 Trabalho com:
 
-Power BI
+<b>Power BI</b> 
+<br>
 <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" min-width="40px" max-width="40px" width="40px" align="left"></img>  
 
 ## Objetivos
