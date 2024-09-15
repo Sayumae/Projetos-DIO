@@ -9,7 +9,7 @@ ATUO COM
 <br><br>
 <b>DESAFIOS</b>
 <br><br>
-![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=mysql&logoColor=fff)
+![MYSQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <b>ALGUM CONHECIMENTO</b>
