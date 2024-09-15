@@ -6,7 +6,7 @@ Apaixonada por Pixels e UX Design
 
 Trabalho atualmente com:
 
-![POWERBI](https://img.shields.io/badge/powerbi-D70A53?style=for-the-badge&logo=&logoColor=white)
+![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 <br><br>
 <b>Estou aprendendo mais sobre</b>
 <br><br>
