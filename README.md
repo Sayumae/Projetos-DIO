@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-Me chamo Marinara, tenho 28 anos
+Me chamo Marinara e tenho 28 anos.
 
-Trabalho com:
+Trabalho atualmente com:
 
 <b>Power BI</b> 
 <br>
