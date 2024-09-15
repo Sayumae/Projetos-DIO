@@ -3,7 +3,7 @@
 ## Sobre mim
 Me chamo Marinara e tenho 28 anos, trabalho atualmente com:
 
-![POWERBI](https://img.shields.io/badge/powerbi-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![POWERBI](https://img.shields.io/badge/powerbi-D70A53?style=for-the-badge&logo=&logoColor=white)
 <br><br>
 <b>Estou aprendendo mais sobre</b>
 <br><br>
