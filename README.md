@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/76715208?v=4" min-width="60px" max-width="60px" width="60px" align="right"></img>
 # Sobre mim :chart_with_upwards_trend:
-![MARINARA](https://img.shields.io/badge/Marinara-28-76B900?style=for-the-badge&logo=&logoColor=white)
+![MARINARA](https://img.shields.io/badge/Ko--fi-Marinara-28-76B900?style=for-the-badge&logo=ko-fi&logoColor=white)
 
 ### **Atuo com**
 
