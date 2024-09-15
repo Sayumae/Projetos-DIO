@@ -3,7 +3,7 @@
 # Sobre mim :chart_with_upwards_trend:
 ![MARINARA](https://img.shields.io/badge/Marinara|28|SP-HOBBIES:PIXEL&UX-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 
-<img src="https://i.ibb.co/rb5DMV0/Robot-helping-a-person-writing-code.png" min-width="" max-width="" width="" align="right">
+<img src="https://i.ibb.co/tKZfYvL/desktop-and-vr-monitors.png" min-width="" max-width="" width="" align="right">
 
 ### **Atuo com**
 
