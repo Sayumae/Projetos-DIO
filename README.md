@@ -11,7 +11,7 @@ Power BI
 <br>
 
 <b>Aprendendo mais sobre</b>
-<br>
+<br><br>
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
