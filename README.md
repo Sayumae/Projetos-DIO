@@ -3,9 +3,9 @@
 ## Sobre mim
 Me chamo Marinara e tenho 28 anos
 
-Trabalho atualmente com:
+## Trabalho atual
 
-<b>Power BI</b> 
+Power BI
 <br>
 <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" min-width="60px" max-width="60px" width="60px" align="left"></img>  
 <br>
